@@ -1,0 +1,9 @@
+  type PlayerLineup  {
+    id:number,
+    name:string,
+    lineup_id:number,
+    phaseGame:string,
+    positionX:number,
+    positionY:number,
+    positionField:string
+}
